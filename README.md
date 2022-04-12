@@ -22,4 +22,4 @@ Utilize o pip install {nome da biblioteca}, para instalar todas as dependencias.
 
 ## ✒️ Autor
 
-* **Vitor Gabriel** - [VitorGabriel](https://www.linkedin.com/in/vitor-gabriel-220445203/)
+* **Vitor Gabriel** - [Linkedin](https://www.linkedin.com/in/vitor-gabriel-220445203/)
